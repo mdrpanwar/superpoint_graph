@@ -1,13 +1,3 @@
-# TO-DO:
-- pretrained model doesn't work 
-	- error in visualization step (missing expected files)
-- `variable used before initialisation` errors:
-	- if conditions and values of variables changed to run
-- compatibility issues w.r.t.:
-	- pytorch
-	- boost
-- training from scratch
-
 # Large-scale Point Cloud Semantic Segmentation with Superpoint Graphs
 
 
